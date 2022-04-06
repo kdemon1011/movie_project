@@ -1,0 +1,251 @@
+title,genres,director
+The Shawshank Redemption,['Drama'],Frank Darabont
+The Godfather,"['Crime', 'Drama']",Francis Ford Coppola
+The Dark Knight,"['Action', 'Crime', 'Drama']",Christopher Nolan
+The Godfather: Part II,"['Crime', 'Drama']",Francis Ford Coppola
+12 Angry Men,"['Crime', 'Drama']",Sidney Lumet
+Schindler&apos;s List,"['Biography', 'Drama', 'History']",Steven Spielberg
+The Lord of the Rings: The Return of the King,"['Action', 'Adventure', 'Drama']",Peter Jackson
+Pulp Fiction,"['Crime', 'Drama']",Quentin Tarantino
+The Lord of the Rings: The Fellowship of the Ring,"['Action', 'Adventure', 'Drama']",Peter Jackson
+"Il buono, il brutto, il cattivo","['Adventure', 'Western']",Sergio Leone
+Forrest Gump,"['Drama', 'Romance']",Robert Zemeckis
+Fight Club,['Drama'],David Fincher
+Inception,"['Action', 'Adventure', 'Sci-Fi']",Christopher Nolan
+The Lord of the Rings: The Two Towers,"['Action', 'Adventure', 'Drama']",Peter Jackson
+The Empire Strikes Back,"['Action', 'Adventure', 'Fantasy']",Irvin Kershner
+The Matrix,"['Action', 'Sci-Fi']",Lana Wachowski
+Goodfellas,"['Biography', 'Crime', 'Drama']",Martin Scorsese
+One Flew Over the Cuckoo&apos;s Nest,['Drama'],Milos Forman
+Se7en,"['Crime', 'Drama', 'Mystery']",David Fincher
+Shichinin no samurai,"['Action', 'Drama']",Akira Kurosawa
+It&apos;s a Wonderful Life,"['Drama', 'Family', 'Fantasy']",Frank Capra
+The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",Jonathan Demme
+Saving Private Ryan,"['Drama', 'War']",Steven Spielberg
+Cidade de Deus,"['Crime', 'Drama']",Fernando Meirelles
+La vita è bella,"['Comedy', 'Drama', 'Romance']",Roberto Benigni
+The Green Mile,"['Crime', 'Drama', 'Fantasy']",Frank Darabont
+Star Wars,"['Action', 'Adventure', 'Fantasy']",George Lucas
+Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",Christopher Nolan
+Terminator 2: Judgment Day,"['Action', 'Sci-Fi']",James Cameron
+Back to the Future,"['Adventure', 'Comedy', 'Sci-Fi']",Robert Zemeckis
+Sen to Chihiro no kamikakushi,"['Animation', 'Adventure', 'Family']",Hayao Miyazaki
+Psycho,"['Horror', 'Mystery', 'Thriller']",Alfred Hitchcock
+The Pianist,"['Biography', 'Drama', 'Music']",Roman Polanski
+Léon,"['Action', 'Crime', 'Drama']",Luc Besson
+Gisaengchung,"['Comedy', 'Drama', 'Horror']",Bong Joon Ho
+The Lion King,"['Animation', 'Adventure', 'Drama']",Roger Allers
+Gladiator,"['Action', 'Adventure', 'Drama']",Ridley Scott
+American History X,['Drama'],Tony Kaye
+The Usual Suspects,"['Crime', 'Drama', 'Mystery']",Bryan Singer
+The Departed,"['Crime', 'Drama', 'Thriller']",Martin Scorsese
+The Prestige,"['Drama', 'Mystery', 'Thriller']",Christopher Nolan
+Casablanca,"['Drama', 'Romance', 'War']",Michael Curtiz
+Whiplash,"['Drama', 'Music']",Damien Chazelle
+Intouchables,"['Biography', 'Comedy', 'Drama']",Olivier Nakache
+Modern Times,"['Comedy', 'Drama', 'Romance']",Charles Chaplin
+C&apos;era una volta il West,['Western'],Sergio Leone
+Seppuku,"['Action', 'Drama', 'Mystery']",Masaki Kobayashi
+Hotaru no haka,"['Animation', 'Drama', 'War']",Isao Takahata
+Alien,"['Horror', 'Sci-Fi']",Ridley Scott
+Rear Window,"['Mystery', 'Thriller']",Alfred Hitchcock
+City Lights,"['Comedy', 'Drama', 'Romance']",Charles Chaplin
+Memento,"['Mystery', 'Thriller']",Christopher Nolan
+Nuovo Cinema Paradiso,"['Drama', 'Romance']",Giuseppe Tornatore
+Apocalypse Now,"['Drama', 'Mystery', 'War']",Francis Ford Coppola
+Raiders of the Lost Ark,"['Action', 'Adventure']",Steven Spielberg
+Django Unchained,"['Drama', 'Western']",Quentin Tarantino
+WALL·E,"['Animation', 'Adventure', 'Family']",Andrew Stanton
+Das Leben der Anderen,"['Drama', 'Mystery', 'Thriller']",Florian Henckel von Donnersmarck
+Sunset Blvd.,"['Drama', 'Film-Noir']",Billy Wilder
+The Shining,"['Drama', 'Horror']",Stanley Kubrick
+Paths of Glory,"['Drama', 'War']",Stanley Kubrick
+The Great Dictator,"['Comedy', 'Drama', 'War']",Charles Chaplin
+Avengers: Infinity War,"['Action', 'Adventure', 'Sci-Fi']",Anthony Russo
+Witness for the Prosecution,"['Crime', 'Drama', 'Mystery']",Billy Wilder
+Aliens,"['Action', 'Adventure', 'Sci-Fi']",James Cameron
+American Beauty,['Drama'],Sam Mendes
+The Dark Knight Rises,"['Action', 'Crime', 'Drama']",Christopher Nolan
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"['Comedy', 'War']",Stanley Kubrick
+Spider-Man: Into the Spider-Verse,"['Animation', 'Action', 'Adventure']",Bob Persichetti
+Joker,"['Crime', 'Drama', 'Thriller']",Todd Phillips
+Oldeuboi,"['Action', 'Drama', 'Mystery']",Park Chan-wook
+Braveheart,"['Biography', 'Drama', 'History']",Mel Gibson
+Toy Story,"['Animation', 'Adventure', 'Comedy']",John Lasseter
+Amadeus,"['Biography', 'Drama', 'Music']",Milos Forman
+Coco,"['Animation', 'Adventure', 'Comedy']",Lee Unkrich
+Inglourious Basterds,"['Adventure', 'Drama', 'War']",Quentin Tarantino
+Das Boot,"['Drama', 'War']",Wolfgang Petersen
+Avengers: Endgame,"['Action', 'Adventure', 'Drama']",Anthony Russo
+Spider-Man: No Way Home,"['Action', 'Adventure', 'Fantasy']",Jon Watts
+Mononoke-hime,"['Animation', 'Action', 'Adventure']",Hayao Miyazaki
+Once Upon a Time in America,"['Crime', 'Drama']",Sergio Leone
+Good Will Hunting,"['Drama', 'Romance']",Gus Van Sant
+Toy Story 3,"['Animation', 'Adventure', 'Comedy']",Lee Unkrich
+Requiem for a Dream,['Drama'],Darren Aronofsky
+3 Idiots,"['Comedy', 'Drama']",Rajkumar Hirani
+Kimi no na wa.,"['Animation', 'Drama', 'Fantasy']",Makoto Shinkai
+Singin&apos; in the Rain,"['Comedy', 'Musical', 'Romance']",Stanley Donen
+Star Wars: Episode VI - Return of the Jedi,"['Action', 'Adventure', 'Fantasy']",Richard Marquand
+Reservoir Dogs,"['Crime', 'Drama', 'Thriller']",Quentin Tarantino
+Eternal Sunshine of the Spotless Mind,"['Drama', 'Romance', 'Sci-Fi']",Michel Gondry
+2001: A Space Odyssey,"['Adventure', 'Sci-Fi']",Stanley Kubrick
+Tengoku to jigoku,"['Crime', 'Drama', 'Mystery']",Akira Kurosawa
+Citizen Kane,"['Drama', 'Mystery']",Orson Welles
+Capharnaüm,['Drama'],Nadine Labaki
+Lawrence of Arabia,"['Adventure', 'Biography', 'Drama']",David Lean
+M - Eine Stadt sucht einen Mörder,"['Crime', 'Mystery', 'Thriller']",Fritz Lang
+North by Northwest,"['Adventure', 'Mystery', 'Thriller']",Alfred Hitchcock
+Jagten,['Drama'],Thomas Vinterberg
+Vertigo,"['Mystery', 'Romance', 'Thriller']",Alfred Hitchcock
+Le fabuleux destin d&apos;Amélie Poulain,"['Comedy', 'Romance']",Jean-Pierre Jeunet
+A Clockwork Orange,"['Crime', 'Sci-Fi']",Stanley Kubrick
+Full Metal Jacket,"['Drama', 'War']",Stanley Kubrick
+Scarface,"['Crime', 'Drama']",Brian De Palma
+Idi i smotri,"['Drama', 'Thriller', 'War']",Elem Klimov
+Double Indemnity,"['Crime', 'Drama', 'Film-Noir']",Billy Wilder
+The Apartment,"['Comedy', 'Drama', 'Romance']",Billy Wilder
+Taxi Driver,"['Crime', 'Drama']",Martin Scorsese
+To Kill a Mockingbird,"['Crime', 'Drama']",Robert Mulligan
+Up,"['Animation', 'Adventure', 'Comedy']",Pete Docter
+The Sting,"['Comedy', 'Crime', 'Drama']",George Roy Hill
+L.A. Confidential,"['Crime', 'Drama', 'Mystery']",Curtis Hanson
+Hamilton,"['Biography', 'Drama', 'History']",Thomas Kail
+Heat,"['Action', 'Crime', 'Drama']",Michael Mann
+Ikiru,['Drama'],Akira Kurosawa
+Snatch,"['Comedy', 'Crime']",Guy Ritchie
+Die Hard,"['Action', 'Thriller']",John McTiernan
+Indiana Jones and the Last Crusade,"['Action', 'Adventure']",Steven Spielberg
+Jodaeiye Nader az Simin,['Drama'],Asghar Farhadi
+Metropolis,"['Drama', 'Sci-Fi']",Fritz Lang
+Incendies,"['Drama', 'Mystery', 'War']",Denis Villeneuve
+Ladri di biciclette,['Drama'],Vittorio De Sica
+1917,"['Action', 'Drama', 'War']",Sam Mendes
+Taare Zameen Par,"['Drama', 'Family']",Aamir Khan
+Batman Begins,"['Action', 'Crime', 'Drama']",Christopher Nolan
+Per qualche dollaro in più,['Western'],Sergio Leone
+Dangal,"['Action', 'Biography', 'Drama']",Nitesh Tiwari
+Der Untergang,"['Biography', 'Drama', 'History']",Oliver Hirschbiegel
+The Kid,"['Comedy', 'Drama', 'Family']",Charles Chaplin
+Some Like It Hot,"['Comedy', 'Music', 'Romance']",Billy Wilder
+The Father,"['Drama', 'Mystery']",Florian Zeller
+The Batman,"['Action', 'Crime', 'Drama']",Matt Reeves
+All About Eve,['Drama'],Joseph L. Mankiewicz
+The Wolf of Wall Street,"['Biography', 'Comedy', 'Crime']",Martin Scorsese
+Green Book,"['Biography', 'Comedy', 'Drama']",Peter Farrelly
+Casino,"['Crime', 'Drama']",Martin Scorsese
+Unforgiven,"['Drama', 'Western']",Clint Eastwood
+Judgment at Nuremberg,"['Drama', 'War']",Stanley Kramer
+El laberinto del fauno,"['Drama', 'Fantasy', 'War']",Guillermo del Toro
+Ran,"['Action', 'Drama', 'War']",Akira Kurosawa
+A Beautiful Mind,"['Biography', 'Drama']",Ron Howard
+The Sixth Sense,"['Drama', 'Mystery', 'Thriller']",M. Night Shyamalan
+There Will Be Blood,['Drama'],Paul Thomas Anderson
+Monty Python and the Holy Grail,"['Adventure', 'Comedy', 'Fantasy']",Terry Gilliam
+The Truman Show,"['Comedy', 'Drama']",Peter Weir
+Yôjinbô,"['Action', 'Drama', 'Thriller']",Akira Kurosawa
+The Treasure of the Sierra Madre,"['Adventure', 'Drama', 'Western']",John Huston
+Shutter Island,"['Mystery', 'Thriller']",Martin Scorsese
+The Great Escape,"['Adventure', 'Drama', 'History']",John Sturges
+Rashômon,"['Crime', 'Drama', 'Mystery']",Akira Kurosawa
+Jurassic Park,"['Action', 'Adventure', 'Sci-Fi']",Steven Spielberg
+Kill Bill: Vol. 1,"['Action', 'Crime', 'Drama']",Quentin Tarantino
+No Country for Old Men,"['Crime', 'Drama', 'Thriller']",Ethan Coen
+Finding Nemo,"['Animation', 'Adventure', 'Comedy']",Andrew Stanton
+Raging Bull,"['Biography', 'Drama', 'Sport']",Martin Scorsese
+The Elephant Man,"['Biography', 'Drama']",David Lynch
+V for Vendetta,"['Action', 'Drama', 'Sci-Fi']",James McTeigue
+Gone with the Wind,"['Drama', 'History', 'Romance']",Victor Fleming
+Chinatown,"['Drama', 'Mystery', 'Thriller']",Roman Polanski
+Inside Out,"['Animation', 'Adventure', 'Comedy']",Pete Docter
+"Lock, Stock and Two Smoking Barrels","['Action', 'Comedy', 'Crime']",Guy Ritchie
+The Thing,"['Horror', 'Mystery', 'Sci-Fi']",John Carpenter
+Dial M for Murder,"['Crime', 'Thriller']",Alfred Hitchcock
+El secreto de sus ojos,"['Drama', 'Mystery', 'Romance']",Juan José Campanella
+Hauru no ugoku shiro,"['Animation', 'Adventure', 'Family']",Hayao Miyazaki
+The Bridge on the River Kwai,"['Adventure', 'Drama', 'War']",David Lean
+Trainspotting,['Drama'],Danny Boyle
+"Three Billboards Outside Ebbing, Missouri","['Comedy', 'Crime', 'Drama']",Martin McDonagh
+Warrior,"['Action', 'Drama', 'Sport']",Gavin O&apos;Connor
+Gran Torino,['Drama'],Clint Eastwood
+Fargo,"['Crime', 'Thriller']",Joel Coen
+Tonari no Totoro,"['Animation', 'Comedy', 'Family']",Hayao Miyazaki
+Prisoners,"['Crime', 'Drama', 'Mystery']",Denis Villeneuve
+Million Dollar Baby,"['Drama', 'Sport']",Clint Eastwood
+Blade Runner,"['Action', 'Drama', 'Sci-Fi']",Ridley Scott
+Catch Me If You Can,"['Biography', 'Crime', 'Drama']",Steven Spielberg
+The Gold Rush,"['Adventure', 'Comedy', 'Drama']",Charles Chaplin
+On the Waterfront,"['Crime', 'Drama', 'Thriller']",Elia Kazan
+Bacheha-Ye aseman,"['Drama', 'Family', 'Sport']",Majid Majidi
+Harry Potter and the Deathly Hallows: Part 2,"['Adventure', 'Fantasy', 'Mystery']",David Yates
+The Third Man,"['Film-Noir', 'Mystery', 'Thriller']",Carol Reed
+Gone Girl,"['Drama', 'Mystery', 'Thriller']",David Fincher
+12 Years a Slave,"['Biography', 'Drama', 'History']",Steve McQueen
+Ben-Hur,"['Adventure', 'Drama', 'History']",William Wyler
+The General,"['Action', 'Adventure', 'Comedy']",Clyde Bruckman
+The Deer Hunter,"['Drama', 'War']",Michael Cimino
+Before Sunrise,"['Drama', 'Romance']",Richard Linklater
+Smultronstället,"['Drama', 'Romance']",Ingmar Bergman
+In the Name of the Father,"['Biography', 'Crime', 'Drama']",Jim Sheridan
+The Grand Budapest Hotel,"['Adventure', 'Comedy', 'Crime']",Wes Anderson
+Mr. Smith Goes to Washington,"['Comedy', 'Drama']",Frank Capra
+Room,"['Drama', 'Thriller']",Lenny Abrahamson
+Hacksaw Ridge,"['Biography', 'Drama', 'History']",Mel Gibson
+Sherlock Jr.,"['Action', 'Comedy', 'Romance']",Buster Keaton
+How to Train Your Dragon,"['Animation', 'Action', 'Adventure']",Dean DeBlois
+Le salaire de la peur,"['Adventure', 'Drama', 'Thriller']",Henri-Georges Clouzot
+Barry Lyndon,"['Adventure', 'Drama', 'History']",Stanley Kubrick
+Salinui chueok,"['Crime', 'Drama', 'Mystery']",Bong Joon Ho
+Pather Panchali,['Drama'],Satyajit Ray
+Det sjunde inseglet,"['Drama', 'Fantasy', 'History']",Ingmar Bergman
+Klaus,"['Animation', 'Adventure', 'Comedy']",Sergio Pablos
+Mad Max: Fury Road,"['Action', 'Adventure', 'Sci-Fi']",George Miller
+The Big Lebowski,"['Comedy', 'Crime']",Joel Coen
+Relatos salvajes,"['Comedy', 'Drama', 'Thriller']",Damián Szifron
+"Monsters, Inc.","['Animation', 'Adventure', 'Comedy']",Pete Docter
+Mary and Max.,"['Animation', 'Comedy', 'Drama']",Adam Elliot
+Jaws,"['Adventure', 'Thriller']",Steven Spielberg
+La passion de Jeanne d&apos;Arc,"['Biography', 'Drama', 'History']",Carl Theodor Dreyer
+Hotel Rwanda,"['Biography', 'Drama', 'History']",Terry George
+Rocky,"['Drama', 'Sport']",John G. Avildsen
+Dead Poets Society,"['Comedy', 'Drama']",Peter Weir
+Tôkyô monogatari,['Drama'],Yasujirô Ozu
+Platoon,"['Drama', 'War']",Oliver Stone
+Ford v Ferrari,"['Action', 'Biography', 'Drama']",James Mangold
+The Terminator,"['Action', 'Sci-Fi']",James Cameron
+Stand by Me,"['Adventure', 'Drama']",Rob Reiner
+Rush,"['Action', 'Biography', 'Drama']",Ron Howard
+Into the Wild,"['Adventure', 'Biography', 'Drama']",Sean Penn
+Logan,"['Action', 'Drama', 'Sci-Fi']",James Mangold
+The Wizard of Oz,"['Adventure', 'Family', 'Fantasy']",Victor Fleming
+Spotlight,"['Biography', 'Crime', 'Drama']",Tom McCarthy
+Network,['Drama'],Sidney Lumet
+Groundhog Day,"['Comedy', 'Drama', 'Fantasy']",Harold Ramis
+Ratatouille,"['Animation', 'Adventure', 'Comedy']",Brad Bird
+The Exorcist,['Horror'],William Friedkin
+Hachi: A Dog&apos;s Tale,"['Biography', 'Drama', 'Family']",Lasse Hallström
+The Incredibles,"['Animation', 'Action', 'Adventure']",Brad Bird
+Before Sunset,"['Drama', 'Romance']",Richard Linklater
+The Best Years of Our Lives,"['Drama', 'Romance', 'War']",William Wyler
+Rebecca,"['Drama', 'Film-Noir', 'Mystery']",Alfred Hitchcock
+Babam ve Oglum,"['Drama', 'Family']",Cagan Irmak
+Dersu Uzala,"['Adventure', 'Biography', 'Drama']",Akira Kurosawa
+Cool Hand Luke,"['Crime', 'Drama']",Stuart Rosenberg
+Pirates of the Caribbean: The Curse of the Black Pearl,"['Action', 'Adventure', 'Fantasy']",Gore Verbinski
+The Grapes of Wrath,['Drama'],John Ford
+To Be or Not to Be,"['Comedy', 'Romance', 'War']",Ernst Lubitsch
+La battaglia di Algeri,"['Drama', 'War']",Gillo Pontecorvo
+Amores perros,"['Drama', 'Thriller']",Alejandro G. Iñárritu
+The Sound of Music,"['Biography', 'Drama', 'Family']",Robert Wise
+Life of Brian,['Comedy'],Terry Jones
+Les quatre cents coups,"['Crime', 'Drama']",François Truffaut
+Persona,"['Drama', 'Thriller']",Ingmar Bergman
+It Happened One Night,"['Comedy', 'Romance']",Frank Capra
+La haine,"['Crime', 'Drama']",Mathieu Kassovitz
+Aladdin,"['Animation', 'Adventure', 'Comedy']",Ron Clements
+Beauty and the Beast,"['Animation', 'Family', 'Fantasy']",Gary Trousdale
+Dune: Part One,"['Action', 'Adventure', 'Drama']",Denis Villeneuve
+Gandhi,"['Biography', 'Drama']",Richard Attenborough
+The Help,['Drama'],Tate Taylor
+Ah-ga-ssi,"['Drama', 'Romance', 'Thriller']",Park Chan-wook
+Dances with Wolves,"['Adventure', 'Drama', 'Western']",Kevin Costner
