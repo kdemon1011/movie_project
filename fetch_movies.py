@@ -47,4 +47,4 @@ movie_list = pool.map(scrape_data,movie_links)
 
 df_columns = [ 'title','genres','director']
 df = pd.DataFrame(movie_list, columns=df_columns)
-df.to_csv("disha_movies.csv",index=False) # Removing index
+df.to_csv("./utils/disha_movies.csv",index=False) # Removing index
