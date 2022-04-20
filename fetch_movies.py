@@ -28,7 +28,7 @@ def scrape_data(movie_page_url):
     
     # Extraactin json data which contains all info
     json_data = json.loads(page_soup.find_all("script",type="application/ld+json")[0].text)
-    
+    print(json_data)
     title = json_data.get("name",None) # Getting title, if "name" key not found alloating default value None
     genre_list = json_data.get("genre",[]) # Getting genere_list, if "genere" key not found alloating default value empty list
     director = json_data.get("director",[{"name":None}])[0].get("name") # Getting director info, if "director" key not found alloating an array with default name to None
@@ -42,9 +42,16 @@ def scrape_data(movie_page_url):
     return movie_dict
 
 pool = Pool(cpu_count() * 2) # Creating pool based on cores available on machine
-movie_list = pool.map(scrape_data,movie_links)
+movie_list = pool.map(scrape_data,movie_links[:1])
 # print(movie_list)
 
-df_columns = [ 'title','genres','director']
-df = pd.DataFrame(movie_list, columns=df_columns)
-df.to_csv("./utils/disha_movies.csv",index=False) # Removing index
+# df_columns = [ 'title','genres','director']
+# df = pd.DataFrame(movie_list, columns=df_columns)
+# df.to_csv("./utils/disha_movies.csv",index=False) # Removing index
+
+prefix = "https://www.imdb.com/"
+postfix = "/bio?ref_=nm_ov_bio_sm"
+
+url = "name/nm0001104"
+
+final_url = prefix + url + postfix
