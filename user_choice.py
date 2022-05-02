@@ -43,12 +43,12 @@ def get_final_input(user_choice):
     
     elif user_choice.lower().strip() == "director":
         # return  input("Who do you want to check?").strip()
-        return "Christopher Nolan"
+        return "Lilly Wachowski"
 
     elif user_choice.lower().strip() == "comparison":
         # director1, director2 = input("Who do you want to compare? Add comma seprated values \n").split(",")
         # data = [director1.strip(),director2.strip()]
-        data = ["Christopher Nolan","Steven Spielberg"]
+        data = ["Christopher Nolan","Lilly Wachowski"]
         return data
     else:
         return False
@@ -68,13 +68,14 @@ def get_result(df, final_input,user_choice):
         # print(new_df)
         result = new_df.to_dict(orient="records")[0]
         # print(result)
-        print("The director of the movie is {0}".format(result["director"]))
-        print("The director of the movie is {0}".format(new_df["director"].item()))
-        print("The genre of the movie is {0}".format(", ".join(result["genres"])))
-        print("The genre of the movie is {0}".format(", ".join(new_df["genres"].item())))
+        print("The director(s) of the movie is {0}".format(result["director"]))
+        print("The director(s) of the movie is {0}".format(new_df["director"].item()))
+        # print("The genre of the movie is {0}".format(", ".join(result["genres"])))
+        # print("The genre of the movie is {0}".format(", ".join(new_df["genres"].item())))
     
     elif user_choice.lower() == "director":
-        new_df = df.loc[df["director"].str.lower() == final_input.lower()]
+        # new_df = df.loc[df["director"].str.lower() == final_input.lower()]
+        new_df = df[df['director'].str.lower().str.contains(final_input.lower())]
         print(new_df)
         if new_df.empty:
             print('Invalid director name "{0}". Please provide correct director name.'.format(final_input))
@@ -101,7 +102,7 @@ def get_result(df, final_input,user_choice):
     else:
         genre_dict = {}
         for director in final_input:
-            new_df = df.loc[df["director"].str.lower() == director.lower()]
+            new_df = df[df['director'].str.lower().str.contains(director.lower())]
             if new_df.empty:
                 print('Invalid director name "{0}". Please provide correct movie name'.format(director))
                 return
