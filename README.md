@@ -5,7 +5,6 @@
 - Create and activate virtual env
 
   ```bash
-  pip3 uninstall virtualenv
   sudo apt-get install python-virtualenv
   python3 -m venv env
   source env/bin/activate
